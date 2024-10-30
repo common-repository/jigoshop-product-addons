@@ -1,0 +1,8 @@
+.jigoshop .product-name ul.addons {
+    list-style: none;
+    margin: 0 0 0.75em 0.25em;
+}
+.jigoshop .product-name ul.addons ul {
+    list-style: none;
+    margin: 0 0 0.75em 0.25em;
+}

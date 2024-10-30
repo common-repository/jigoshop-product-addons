@@ -1,0 +1,35 @@
+.jigoshop .addons .form-group {
+    width: 100%!important;
+    margin-bottom: 15px!important;
+    position: relative;
+}
+.jigoshop .addons input[type="text"], .jigoshop .addons input[type="file"], .jigoshop .addons textarea {
+    width: 100%!important;
+}
+.jigoshop .addons input[type="file"], .jigoshop .addons textarea {
+    height: auto;
+}
+.jigoshop .product .addons .select2-container {
+    display: block;
+    width: auto!important;
+}
+.jigoshop article.product form.form-inline {
+    position: initial;
+}
+.jigoshop .product .addons .checkbox .times {
+    padding: 5px;
+}
+.jigoshop .product .addons .checkbox .text {
+    margin-right: 5px;
+    padding: 4px;
+    font-weight: 700;
+}
+.jigoshop .magic-checkbox+label:before, .jigoshop .magic-radio+label:before {
+    top: 6px;
+}
+.jigoshop .magic-checkbox+label:after, .jigoshop .magic-radio+label:after {
+    top: 8px;
+}
+.jigoshop .magic-checkbox+label, .jigoshop .magic-radio+label {
+    padding-left: 20px!important;
+}
